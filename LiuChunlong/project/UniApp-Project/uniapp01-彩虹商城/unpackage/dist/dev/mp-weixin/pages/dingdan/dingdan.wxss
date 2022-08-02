@@ -1,0 +1,107 @@
+.header.data-v-308dcaa4 {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1rpx solid #efefef;
+}
+.header .list.data-v-308dcaa4 {
+  color: gray;
+  font-size: 30rpx;
+  text-align: center;
+  transition: all 1s;
+  height: 70rpx;
+  font-weight: 800;
+}
+.header .list.data-v-308dcaa4:hover {
+  color: #07593e;
+}
+.desc.data-v-308dcaa4 {
+  width: 95%;
+  margin: 20rpx auto 0;
+  border-radius: 20rpx;
+  box-shadow: 0 0 10rpx 10rpx #efefef;
+  padding: 30rpx;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.desc .up.data-v-308dcaa4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1rpx solid #cdcdcd;
+  padding: 10rpx 0 20rpx;
+}
+.desc .up .left.data-v-308dcaa4 {
+  color: #999;
+}
+.desc .up .right.data-v-308dcaa4 {
+  color: #d08617;
+  font-size: 26rpx;
+}
+.desc .middle.data-v-308dcaa4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20rpx;
+}
+.desc .middle .left.data-v-308dcaa4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.desc .middle .left .image.data-v-308dcaa4 {
+  width: 30%;
+  padding: 0 30rpx 0 10rpx;
+}
+.desc .middle .left .image image.data-v-308dcaa4 {
+  display: block;
+  height: 120rpx;
+  width: 100rpx;
+}
+.desc .middle .left .text.data-v-308dcaa4 {
+  width: 70%;
+}
+.desc .middle .left .text .text1.data-v-308dcaa4 {
+  font-size: 30rpx;
+}
+.desc .middle .left .text .text2.data-v-308dcaa4 {
+  font-size: 24rpx;
+}
+.desc .middle .left .text .text3.data-v-308dcaa4 {
+  font-size: 24rpx;
+}
+.desc .down.data-v-308dcaa4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20rpx;
+}
+.desc .down .right.data-v-308dcaa4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.desc .down .right .text1.data-v-308dcaa4 {
+  padding: 5rpx 15rpx;
+  border-radius: 40rpx;
+  border: 1rpx solid #666;
+  font-size: 24rpx;
+  margin-right: 10rpx;
+}
+.desc .down .right .text2.data-v-308dcaa4 {
+  padding: 5rpx 15rpx;
+  border-radius: 40rpx;
+  border: 1rpx solid #666;
+  font-size: 24rpx;
+  margin-right: 10rpx;
+}
+.desc .down .right .text3.data-v-308dcaa4 {
+  padding: 5rpx 25rpx;
+  border-radius: 40rpx;
+  background-color: #07593e;
+  border: 1rpx solid #07593e;
+  font-size: 24rpx;
+  color: #efefef;
+}
+

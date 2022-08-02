@@ -1,0 +1,129 @@
+.big.data-v-5412c8a8 {
+  padding-bottom: 160rpx;
+}
+.big .input.data-v-5412c8a8 {
+  width: 100%;
+  padding: 10rpx;
+  box-sizing: border-box;
+  position: relative;
+}
+.big .input input.data-v-5412c8a8 {
+  height: 60rpx;
+  border-radius: 60rpx;
+  background-color: aliceblue;
+  padding-left: 12%;
+  font-size: 24rpx;
+}
+.big .input image.data-v-5412c8a8 {
+  height: 35rpx;
+  width: 35rpx;
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.big .shai.data-v-5412c8a8 {
+  padding: 10rpx;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.big .shai .list.data-v-5412c8a8 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.big .shai .list .left.data-v-5412c8a8 {
+  padding: 0 10rpx;
+}
+.big .shai .list .right .up image.data-v-5412c8a8 {
+  display: block;
+  width: 20rpx;
+  height: 15rpx;
+}
+.big .shai .list .right .down image.data-v-5412c8a8 {
+  display: block;
+  width: 20rpx;
+  height: 15rpx;
+}
+.big .shai .list .right .img.data-v-5412c8a8 {
+  display: block;
+  width: 20rpx;
+  height: 15rpx;
+}
+.big .box.data-v-5412c8a8 {
+  width: 95%;
+  margin: 20rpx auto 0;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 0 10rpx 10rpx #f1f1f1;
+}
+.big .box .left.data-v-5412c8a8 {
+  flex: 2;
+  padding: 20rpx;
+}
+.big .box .left image.data-v-5412c8a8 {
+  height: 130rpx;
+  width: 130rpx;
+  display: block;
+  margin: auto 0;
+}
+.big .box .right.data-v-5412c8a8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0 20rpx;
+  flex: 8;
+}
+.big .box .right .r-top .shang.data-v-5412c8a8 {
+  padding: 20rpx 0 0;
+  font-size: 30rpx;
+}
+.big .box .right .r-top .xia.data-v-5412c8a8 {
+  font-size: 26rpx;
+}
+.big .box .right .r-bottom.data-v-5412c8a8 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20rpx;
+}
+.big .box .right .r-bottom .zuo.data-v-5412c8a8 {
+  font-size: 34rpx;
+  color: chocolate;
+  font-weight: 800;
+}
+.big .box .right .r-bottom .you.data-v-5412c8a8 {
+  background: chocolate;
+  padding: 10rpx 30rpx;
+  border-radius: 40rpx;
+}
+.big .di.data-v-5412c8a8 {
+  display: flex;
+  background-color: #f1f1f1;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.big .di .left image.data-v-5412c8a8 {
+  display: block;
+  width: 140rpx;
+  height: 140rpx;
+}
+.big .di .center.data-v-5412c8a8 {
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.big .di .right.data-v-5412c8a8 {
+  padding: 15rpx 25rpx;
+  background-color: aqua;
+  border-radius: 40rpx;
+}
+

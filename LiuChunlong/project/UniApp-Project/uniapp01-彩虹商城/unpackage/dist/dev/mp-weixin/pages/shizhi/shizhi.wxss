@@ -1,0 +1,70 @@
+.zhong.data-v-2b4c9fe6 {
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 0 10rpx 10rpx #efefef;
+  margin-top: 30rpx;
+}
+.zhong .txt.data-v-2b4c9fe6 {
+  width: 94%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30rpx 0;
+  border-bottom: 0.1rpx solid #dbdbdb;
+}
+.zhong .txt .left.data-v-2b4c9fe6 {
+  font-size: 30rpx;
+}
+.zhong .txt .right.data-v-2b4c9fe6 {
+  display: flex;
+  align-items: center;
+}
+.zhong .txt .right .pho.data-v-2b4c9fe6 {
+  display: inline-block;
+  padding-right: 10rpx;
+  font-size: 30rpx;
+}
+.zhong .txt .right .you.data-v-2b4c9fe6 {
+  display: inline-block;
+  width: 30rpx;
+  height: 30rpx;
+}
+.zhong .txt1.data-v-2b4c9fe6 {
+  width: 94%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30rpx 0;
+}
+.zhong .txt1 .left.data-v-2b4c9fe6 {
+  font-size: 30rpx;
+}
+.zhong .txt1 .right.data-v-2b4c9fe6 {
+  display: flex;
+  align-items: center;
+}
+.zhong .txt1 .right .pho.data-v-2b4c9fe6 {
+  display: inline-block;
+  padding-right: 10rpx;
+  font-size: 30rpx;
+}
+.zhong .txt1 .right .you.data-v-2b4c9fe6 {
+  display: inline-block;
+  width: 30rpx;
+  height: 30rpx;
+}
+.xia.data-v-2b4c9fe6 {
+  width: 100%;
+  background-color: #fff;
+  padding: 32rpx;
+  box-sizing: border-box;
+  text-align: center;
+  color: aquamarine;
+  font-size: 30rpx;
+  font-weight: 800;
+  box-shadow: 0 0 10rpx 10rpx #efefef;
+  margin-top: 30rpx;
+}
+
